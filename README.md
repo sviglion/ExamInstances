@@ -10,4 +10,4 @@ The instances correspond to five successive exam periods.
 The instances accompanies the paper _A cut-and-branch algorithm for the External
 Candidates Exam Scheduling problem_ by Pasquale Avella (avella@unisannio.it),
 Maurizio Boccia (maurizio.boccia@unina.it), Carlo Mannino (carlo.mannino@sintef.no), 
-Michele Mele (michele.mele1991@gmail.com) and Sandro Viglione (sviglion@unisannio.it).
+Michele Mele (michele.mele1991@gmail.com) and Sandro Viglione (sviglion@vitec.it).
