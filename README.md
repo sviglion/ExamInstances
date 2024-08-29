@@ -1,5 +1,5 @@
 # Exam Instances
-External Candidates Exam Scheduling problem
+## External Candidates Exam Scheduling problem.
 Twice a year, the regional school departments in Norway need to schedule
 exam sessions for external candidates in region, which also involves 
 reserving and assigning rooms, examiners and reviewers.
